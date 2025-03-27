@@ -5,6 +5,7 @@
     해당 코드에선 벡터로 값들을 저장하여 했는데 벡터대신 그냥 인자를 더 받거나 해서 recursive에서 그냥 값 들을 차곡차고 쌓아줘도 될 듯?(메모리 까지 고려시)     
 */
 
+#include<iostream>
 #include <string>
 #include <vector>
 
